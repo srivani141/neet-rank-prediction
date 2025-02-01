@@ -1,0 +1,66 @@
+[
+  {
+    "question_id": 1,
+    "student_id": 101,
+    "topic": "Physics",
+    "difficulty": "Medium",
+    "response": 3,
+    "score": 8
+  },
+  {
+    "question_id": 2,
+    "student_id": 101,
+    "topic": "Chemistry",
+    "difficulty": "Hard",
+    "response": 1,
+    "score": 6
+  },
+  {
+    "question_id": 3,
+    "student_id": 102,
+    "topic": "Biology",
+    "difficulty": "Easy",
+    "response": 2,
+    "score": 9
+  },
+  {
+    "question_id": 4,
+    "student_id": 102,
+    "topic": "Mathematics",
+    "difficulty": "Medium",
+    "response": 4,
+    "score": 7
+  },
+  {
+    "question_id": 5,
+    "student_id": 103,
+    "topic": "Physics",
+    "difficulty": "Medium",
+    "response": 3,
+    "score": 8
+  },
+  {
+    "question_id": 6,
+    "student_id": 103,
+    "topic": "Chemistry",
+    "difficulty": "Hard",
+    "response": 2,
+    "score": 5
+  },
+  {
+    "question_id": 7,
+    "student_id": 104,
+    "topic": "Biology",
+    "difficulty": "Easy",
+    "response": 1,
+    "score": 10
+  },
+  {
+    "question_id": 8,
+    "student_id": 104,
+    "topic": "Mathematics",
+    "difficulty": "Medium",
+    "response": 3,
+    "score": 7
+  }
+]
